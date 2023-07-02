@@ -19,7 +19,7 @@ The project involves performing data analysis using Microsoft Excel 2016. The an
 
 5. **Data Analysis (Executive Summary)**: Answered the Top 10 Highest Paid Positions section using pivot tables. Used linked references to populate results for male vs. female.
 
-6. **Create Visualization**: Provided visualization using charts tied to the executive summary. Created a chart for Salary by Employee Count - Compared COUNT of both male and female employees.
+6. **Visualization**: Provided visualization using charts tied to the executive summary. Created a chart for Salary by Employee Count - Compared COUNT of both male and female employees.
 
 ## Challenges Encountered
 
