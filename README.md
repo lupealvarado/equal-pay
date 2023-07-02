@@ -9,7 +9,7 @@ The project involves performing data analysis using Microsoft Excel 2016. The an
 
 ## Steps Involved
 
-1. **Analysis File**: Downloaded the initial dataset provided by Mell Industries and created a new Excel workbook named 'MyAnalysis.xlsx'. This workbook was used to create additional sheets to analyze the data more closely. The completed worksheet served as a major artifact to either support or refute the allegations of equal pay discrimination.
+1. **Analysis File**: Downloaded the initial dataset provided by Mell Industries and created a new Excel workbook named `MyAnalysis.xlsx`. This workbook was used to create additional sheets to analyze the data more closely. The completed worksheet served as a major artifact to either support or refute the allegations of equal pay discrimination.
 
 2. **Data Migration**: Migrated the data from the initial dataset to the `MyAnalysis.xlsx` workbook. Created separate sheets for `Female_Employees` and `Male_Employees` and filtered the data accordingly.
 
