@@ -5,7 +5,7 @@ This repository contains a project that analyzes employee data from Mell Industr
 
 ## Project Overview
 
-The project involves performing data analysis using Microsoft Excel 2016. The analysis uses various functions, calculations, and pivot tables to evaluate employee data and create an executive summary and visualization. The dataset includes 12 columns of employee information, and the project requires completing a performance rating logic using columns H to L.
+The project involves performing data analysis using Microsoft Excel 2016. The analysis uses various functions, calculations, and pivot tables to evaluate employee data and create an executive summary and visualization. The dataset includes 12 columns of employee information, and the project requires creating a performance rating logic.
 
 ## Steps Involved
 
@@ -23,11 +23,11 @@ The project involves performing data analysis using Microsoft Excel 2016. The an
 
 ## Challenges Encountered
 
-The project was quite challenging, especially when it came to creating pivot tables and visualizations. The Excel functions required for each field in the data analysis were also quite complex. However, with the help of the provided hints and some additional research, I was able to overcome these challenges.
+The project was challenging, especially when it came to creating pivot tables and visualizations. The Excel functions required for each field in the data analysis were also quite complex. However, with the help of the provided hints and some additional research, I was able to overcome these challenges.
 
 ## Conclusion
 
-This project was a great opportunity to apply my Excel skills in a real-world scenario. It was challenging but rewarding, and I learned a lot about data analysis and pay equity. I hope that the findings of this project will help Mell Industries to ensure pay equity among all their employees.
+This project was a great opportunity to apply my Excel skills in a real-world scenario. It was a little challenging but rewarding, and I learned a lot about data analysis and pay equity. I hope that the findings of this project will help Mell Industries to ensure pay equity among all their employees.
 
 ## Deliverables
 
