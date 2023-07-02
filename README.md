@@ -9,17 +9,17 @@ The project involves performing data analysis using Microsoft Excel 2016. The an
 
 ## Steps Involved
 
-1. **Create Analysis File**: Download the initial dataset provided by Mell Industries and create a new Excel workbook named `MyAnalysis.xlsx`. This workbook will be used to create additional sheets to analyze the data more closely. The completed worksheet will serve as a major artifact to either support or refute the allegations of equal pay discrimination.
+1. **Analysis File**: Downloaded the initial dataset provided by Mell Industries and created a new Excel workbook named 'MyAnalysis.xlsx'. This workbook was used to create additional sheets to analyze the data more closely. The completed worksheet served as a major artifact to either support or refute the allegations of equal pay discrimination.
 
-2. **Data Migration**: Migrate the data from the initial dataset to the `MyAnalysis.xlsx` workbook. Create separate sheets for `Female_Employees` and `Male_Employees` and filter the data accordingly.
+2. **Data Migration**: Migrated the data from the initial dataset to the `MyAnalysis.xlsx` workbook. Created separate sheets for `Female_Employees` and `Male_Employees` and filtered the data accordingly.
 
-3. **Job Duration Calculation**: Insert a new column titled `Job Duration` between `Termination Date` and `Occupation` and calculate the length of employment for each employee.
+3. **Job Duration Calculation**: Inserted a new column titled `Job Duration` between `Termination Date` and `Occupation` and calculated the length of employment for each employee.
 
-4. **Employee Evaluation Metrics**: Summarize the five metrics (Knowledge of Work, Communication, Teamwork, Leadership, and Quality of Work) to the following criteria: Exceeds Expectations (3), Meets Expectations (2), Below Expectations (1). Use a formula to determine the Evaluation Score by rounding the average of all 5 metrics.
+4. **Employee Evaluation Metrics**: Summarizde the five metrics (Knowledge of Work, Communication, Teamwork, Leadership, and Quality of Work) to the following criteria: Exceeds Expectations (3), Meets Expectations (2), Below Expectations (1). Used a formula to determine the Evaluation Score by rounding the average of all 5 metrics.
 
-5. **Data Analysis (Executive Summary)**: Answer the Top 10 Highest Paid Positions section using pivot tables. Use linked references to populate results for male vs. female.
+5. **Data Analysis (Executive Summary)**: Answered the Top 10 Highest Paid Positions section using pivot tables. Used linked references to populate results for male vs. female.
 
-6. **Create Visualization**: Provide visualization using charts tied to the executive summary. Create a chart for Salary by Employee Count - Compare COUNT of both male and female employees.
+6. **Create Visualization**: Provided visualization using charts tied to the executive summary. Created a chart for Salary by Employee Count - Compared COUNT of both male and female employees.
 
 ## Challenges Encountered
 
